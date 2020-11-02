@@ -1,4 +1,4 @@
-# Amazona ECommerce Website
+# Imizallah ECommerce Website
 
 This is a fully-functional e-commerce website exactly like amazon. I built an e-commerce website using MERN stack (MongoDB, ExpressJS, React and Node.JS).
 
@@ -84,3 +84,10 @@ $ npm start
 - Contact Me: [Sunday, Ishaya](ishayasunday@gmail.com)
 
 ## May the source codes be with you::: +-_-+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/imizallah/MERN-Stack-E-commerce-System.git
+git push -u origin main
